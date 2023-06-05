@@ -1,0 +1,1 @@
+reserva;numerotarjeta;titular;fechadevencimiento;csv;plataforma;cobro;estado
